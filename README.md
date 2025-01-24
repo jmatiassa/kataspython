@@ -1,20 +1,20 @@
-# Proyecto Katas de python
-Las Katas de python son una forma de demostrar las habilidades que se han adquirido durante el estudio del lenguaje python. En este proyecto se demuestran habilidades básicas de programación co python en las siguientes áreas:
+# Python Katas Project
+Python Katas are a way of demonstrating the skills that have been acquired during the study of the Python language. This project demonstrates basic Python programming skills in the following areas:
 
--Manejo de tipos de datos básicos y funciones incorporadas.
+-Handling basic data types and built-in functions.
 
--Manejo de estructuras de datos en Python y sus métodos.
+-Handling Python data structures and methods.
 
--Manejo de condicionales.
+-Handling conditionals.
 
--Manejo de estructuras de iteración.
+-Handling iteration structures.
 
--Manejo de funciones en Python.
+-Handling of Python functions.
 
--Manejo de Clases y entendimiento de la programación orientada a objetos.
+-Class handling and understanding of object oriented programming.
 
--Uso de módulos y librerías vistos en el temario.
+-Use of modules and libraries seen in the syllabus.
 
--Buenas prácticas.
+-Good practices.
 
-El archivo Katas_JM incluye un listado de 41 ejercicios divididos en bloques de código en un archivo jupyter notebook. Cada bloque tiene en un comentario arriba el enunciado del ejercicio y a través del código se explica el proceso que se ha seguido para resolverlo.
+The Katas_JM file includes a list of 41 exercises divided into code blocks in a jupyter notebook file. Each block has in a comment above the statement of the exercise and through the code explains the process that has been followed to solve it.
